@@ -1,0 +1,1171 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,DALY (per cent),upper,lower
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1990,0.244601823,0.458681,0.077773
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1990,2.97E-06,5.58E-06,9.41E-07
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1990,0.001385449,0.002598,0.000441
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1990,0.244601823,0.458681,0.077773
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1990,2.97E-06,5.58E-06,9.41E-07
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1990,0.001385449,0.002598,0.000441
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1991,0.263343209,0.487737,0.08247
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1991,3.16E-06,5.86E-06,9.91E-07
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1991,0.001446533,0.002679,0.000453
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1993,0.311884412,0.570714,0.096565
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1993,3.52E-06,6.47E-06,1.09E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1993,0.001606792,0.00294,0.000497
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1991,0.263343209,0.487737,0.08247
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1991,3.16E-06,5.86E-06,9.91E-07
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1991,0.001446533,0.002679,0.000453
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1994,0.335239355,0.622732,0.106974
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1994,3.57E-06,6.62E-06,1.14E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1994,0.001672678,0.003107,0.000534
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1994,0.335239355,0.622732,0.106974
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1994,3.57E-06,6.62E-06,1.14E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1994,0.001672678,0.003107,0.000534
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1992,0.285830163,0.527165,0.087512
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1992,3.36E-06,6.18E-06,1.03E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1992,0.00152096,0.002805,0.000466
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1993,0.311884412,0.570714,0.096565
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1993,3.52E-06,6.47E-06,1.09E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1993,0.001606792,0.00294,0.000497
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1992,0.285830163,0.527165,0.087512
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1992,3.36E-06,6.18E-06,1.03E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1992,0.00152096,0.002805,0.000466
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1995,0.371248947,0.69086,0.120501
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1995,3.73E-06,6.93E-06,1.20E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1995,0.001795002,0.00334,0.000583
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1995,0.371248947,0.69086,0.120501
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1995,3.73E-06,6.93E-06,1.20E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1995,0.001795002,0.00334,0.000583
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1997,0.4412298,0.812182,0.147422
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1997,4.48E-06,8.25E-06,1.51E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1997,0.002007575,0.003695,0.000671
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1996,0.402943658,0.748563,0.130283
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1996,4.09E-06,7.61E-06,1.33E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1996,0.001888947,0.003509,0.000611
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1996,0.402943658,0.748563,0.130283
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1996,4.09E-06,7.61E-06,1.33E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1996,0.001888947,0.003509,0.000611
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1998,0.474628847,0.900415,0.154883
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1998,4.83E-06,9.13E-06,1.58E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1998,0.002099252,0.003982,0.000685
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1997,0.4412298,0.812182,0.147422
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1997,4.48E-06,8.25E-06,1.51E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1997,0.002007575,0.003695,0.000671
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1999,0.527944258,0.981778,0.171341
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1999,4.86E-06,9.05E-06,1.58E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1999,0.002273173,0.004227,0.000738
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2000,0.547967578,1.024501,0.178717
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2000,5.23E-06,9.75E-06,1.71E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2000,0.00230041,0.004301,0.00075
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1999,0.527944258,0.981778,0.171341
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1999,4.86E-06,9.05E-06,1.58E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1999,0.002273173,0.004227,0.000738
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2001,0.570119375,1.056338,0.187307
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2001,5.37E-06,9.96E-06,1.76E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2001,0.002338919,0.004334,0.000768
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1998,0.474628847,0.900415,0.154883
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1998,4.83E-06,9.13E-06,1.58E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1998,0.002099252,0.003982,0.000685
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2001,0.570119375,1.056338,0.187307
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2001,5.37E-06,9.96E-06,1.76E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2001,0.002338919,0.004334,0.000768
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2002,0.594891446,1.120228,0.200071
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2002,5.47E-06,1.03E-05,1.84E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2002,0.002390403,0.004501,0.000804
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2000,0.547967578,1.024501,0.178717
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2000,5.23E-06,9.75E-06,1.71E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2000,0.00230041,0.004301,0.00075
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2004,0.639534167,1.185483,0.222358
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2004,5.73E-06,1.06E-05,1.99E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2004,0.002477734,0.004593,0.000861
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2002,0.594891446,1.120228,0.200071
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2002,5.47E-06,1.03E-05,1.84E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2002,0.002390403,0.004501,0.000804
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2004,0.639534167,1.185483,0.222358
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2004,5.73E-06,1.06E-05,1.99E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2004,0.002477734,0.004593,0.000861
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2003,0.621870738,1.144249,0.213273
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2003,5.58E-06,1.03E-05,1.91E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2003,0.002451885,0.004511,0.000841
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2003,0.621870738,1.144249,0.213273
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2003,5.58E-06,1.03E-05,1.91E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2003,0.002451885,0.004511,0.000841
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2006,0.674675301,1.248428,0.236362
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2006,5.87E-06,1.09E-05,2.05E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2006,0.002532653,0.004686,0.000887
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2007,0.686249726,1.240746,0.23773
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2007,5.84E-06,1.06E-05,2.02E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2007,0.002538953,0.00459,0.00088
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2005,0.65666076,1.209235,0.227725
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2005,5.82E-06,1.08E-05,2.02E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2005,0.00250292,0.004609,0.000868
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2007,0.686249726,1.240746,0.23773
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2007,5.84E-06,1.06E-05,2.02E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2007,0.002538953,0.00459,0.00088
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2006,0.674675301,1.248428,0.236362
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2006,5.87E-06,1.09E-05,2.05E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2006,0.002532653,0.004686,0.000887
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2005,0.65666076,1.209235,0.227725
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2005,5.82E-06,1.08E-05,2.02E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2005,0.00250292,0.004609,0.000868
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2008,0.704473765,1.252325,0.243089
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2008,5.70E-06,1.01E-05,1.97E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2008,0.00256996,0.004569,0.000887
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2009,0.727960601,1.27819,0.253536
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2009,5.62E-06,9.85E-06,1.96E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2009,0.002620171,0.004601,0.000913
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2010,0.725611427,1.272088,0.255376
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2010,5.52E-06,9.60E-06,1.96E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2010,0.002578521,0.00452,0.000907
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2011,0.724759254,1.279579,0.25753
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2011,5.37E-06,9.36E-06,1.92E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2011,0.002542633,0.004489,0.000903
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2009,0.727960601,1.27819,0.253536
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2009,5.62E-06,9.85E-06,1.96E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2009,0.002620171,0.004601,0.000913
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2011,0.724759254,1.279579,0.25753
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2011,5.37E-06,9.36E-06,1.92E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2011,0.002542633,0.004489,0.000903
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2008,0.704473765,1.252325,0.243089
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2008,5.70E-06,1.01E-05,1.97E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2008,0.00256996,0.004569,0.000887
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2012,0.760380288,1.35161,0.268413
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2012,5.52E-06,9.77E-06,1.94E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2012,0.002633915,0.004682,0.00093
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2010,0.725611427,1.272088,0.255376
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2010,5.52E-06,9.60E-06,1.96E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2010,0.002578521,0.00452,0.000907
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2012,0.760380288,1.35161,0.268413
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2012,5.52E-06,9.77E-06,1.94E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2012,0.002633915,0.004682,0.00093
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2014,0.804954549,1.419582,0.295296
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2014,5.58E-06,9.86E-06,2.04E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2014,0.002722075,0.004801,0.000999
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2015,0.827257487,1.5012,0.305273
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2015,5.53E-06,9.90E-06,2.09E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2015,0.002765684,0.005019,0.001021
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2013,0.776991352,1.3473,0.271053
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2013,5.70E-06,9.98E-06,2.02E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2013,0.002658999,0.004611,0.000928
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2014,0.804954549,1.419582,0.295296
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2014,5.58E-06,9.86E-06,2.04E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2014,0.002722075,0.004801,0.000999
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2016,0.849239566,1.57984,0.327379
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2016,5.41E-06,9.79E-06,2.11E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2016,0.002808361,0.005224,0.001083
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2015,0.827257487,1.5012,0.305273
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2015,5.53E-06,9.90E-06,2.09E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2015,0.002765684,0.005019,0.001021
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2016,0.849239566,1.57984,0.327379
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2016,5.41E-06,9.79E-06,2.11E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2016,0.002808361,0.005224,0.001083
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2017,0.871591857,1.638811,0.32849
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2017,5.36E-06,9.74E-06,2.13E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2017,0.002850121,0.005359,0.001074
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2017,0.871591857,1.638811,0.32849
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2017,5.36E-06,9.74E-06,2.13E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2017,0.002850121,0.005359,0.001074
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2019,0.920347671,1.754363,0.350661
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,5.21E-06,9.42E-06,2.08E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,0.002940276,0.005605,0.00112
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2013,0.776991352,1.3473,0.271053
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2013,5.70E-06,9.98E-06,2.02E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2013,0.002658999,0.004611,0.000928
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2018,0.895457489,1.684605,0.335923
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2018,5.34E-06,9.63E-06,2.12E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2018,0.002894176,0.005445,0.001086
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2018,0.895457489,1.684605,0.335923
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2018,5.34E-06,9.63E-06,2.12E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2018,0.002894176,0.005445,0.001086
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2019,0.920347671,1.754363,0.350661
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2019,5.21E-06,9.42E-06,2.08E-06
+1,Deaths,13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2019,0.002940276,0.005605,0.00112
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1990,239215.7242,317841.2,173055.5
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1990,0.053658861,0.066534,0.041502
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1990,1354.941586,1800.284,980.2034
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,29844.16995,40319.52,20606.78
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.006718271,0.008904,0.004736
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,169.0403384,228.3738,116.7189
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,1990,78452.2906,110992.2,53032.81
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,1990,0.017590219,0.023111,0.012657
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,1990,444.3615544,628.6711,300.3831
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1992,256063.6948,338546.7,184810.5
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1992,0.055872352,0.069193,0.043065
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1992,1362.566859,1801.475,983.4143
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,1992,32374.50692,43780.48,22114.26
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1992,0.007089937,0.009339,0.004977
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1992,172.2713181,232.9648,117.6745
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,1992,84007.37128,117615,56601.88
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,1992,0.018321753,0.024032,0.013362
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,1992,447.0202625,625.8533,301.1901
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1991,247315.9059,327752.5,178177
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1991,0.054759424,0.067695,0.042416
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1991,1358.495511,1800.33,978.7183
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,1992,12340.57599,19419.94,7055.881
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1992,0.002693233,0.003994,0.001593
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1992,65.66670798,103.3374,37.54578
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,1992,73557.25196,103785.7,48524.16
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1992,0.016050457,0.021575,0.0112
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1992,391.4130579,552.2648,258.2069
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1992,5011.876276,7467.1,3059.681
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1992,0.001092371,0.001563,0.00071
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1992,26.66921027,39.73395,16.28118
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1992,9640.427069,13957.8,6161.812
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,1992,0.002100455,0.002895,0.001467
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,1992,51.29866789,74.27227,32.78825
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1992,1102.255088,1904.82,608.3373
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,1992,0.000239913,0.000397,0.000142
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,1992,5.865322903,10.13593,3.237086
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,1992,14952.1315,23917.38,8099.225
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,1992,0.003255812,0.005018,0.001898
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,1992,79.56332461,127.2692,43.09762
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,1991,11903.33706,18458.65,6766.764
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1991,0.002636039,0.003911,0.001556
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1991,65.38451254,101.3926,37.16954
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,1991,71030.88067,100665.6,46964.7
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1991,0.015728317,0.021196,0.010921
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1991,390.169537,552.9517,257.9751
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1991,4770.728019,7109.383,2863.669
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1991,0.001055229,0.001501,0.000688
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1991,26.20540144,39.05153,15.73001
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1991,9338.650391,13589.29,6097.77
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,1991,0.002064564,0.00286,0.001457
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,1991,51.29680028,74.64539,33.49479
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1991,1073.177285,1861.315,586.3182
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,1991,0.000237022,0.000389,0.000137
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,1991,5.894916132,10.22412,3.220621
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,1991,14540.42131,23451.8,7919.843
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,1991,0.003213082,0.004916,0.001857
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,1991,79.86990159,128.8197,43.50336
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1991,6361.906636,11224.52,2770.24
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,1991,0.001404654,0.002345,0.000642
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,1991,34.94567635,61.65581,15.21681
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,1991,16077.42129,24207.94,10130.79
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,1991,0.003556901,0.005163,0.002343
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,1991,88.31257562,132.9732,55.64799
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1994,274915.9789,362581.6,197888.8
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1994,0.057214411,0.070743,0.04447
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1994,1371.694647,1809.103,987.3669
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,1994,35202.32592,47860.2,24288.99
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1994,0.007353468,0.009728,0.005214
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1994,175.6421807,238.7987,121.19
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,1994,89944.20929,126392.4,61167.17
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,1994,0.018709662,0.024391,0.013618
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,1994,448.7770806,630.6355,305.1939
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1994,10295.44943,14894.01,6681.708
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,1994,0.002139456,0.002979,0.001499
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,1994,51.36919624,74.31375,33.33842
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1994,1171.957223,2018.373,650.7044
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,1994,0.000243293,0.000404,0.000141
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,1994,5.847486405,10.07068,3.246693
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,1994,15836.50843,25400.65,8749.403
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,1994,0.003289203,0.004996,0.00193
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,1994,79.01633777,126.7367,43.65519
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1994,6403.703694,11509.47,2726.959
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,1994,0.001328682,0.002249,0.000596
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,1994,31.9513115,57.42656,13.60618
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,1994,18127.81098,27674.72,11349.41
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,1994,0.003769501,0.005456,0.002476
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,1994,90.44880326,138.0832,56.62792
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,1994,13293.04264,20902.24,7723.322
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1994,0.002766703,0.004165,0.001683
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1994,66.32570252,104.2918,38.53555
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,1994,79159.00452,111894,52095.18
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1994,0.016474828,0.022184,0.011485
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1994,394.9642476,558.2957,259.9292
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1994,5481.966762,8236.116,3328.002
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1994,0.001139614,0.001629,0.000743
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1994,27.35230049,41.09414,16.60508
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1992,6368.220366,11343.07,2739.136
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,1992,0.001385505,0.002335,0.000635
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,1992,33.88659229,60.35875,14.5755
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,1992,16709.07829,25495.02,10523.27
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,1992,0.003642918,0.00528,0.002364
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,1992,88.91239482,135.6642,55.99646
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1993,265367.5723,351912.3,192165.5
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1993,0.056485144,0.070223,0.043863
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1993,1367.142875,1813.011,990.0143
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,1993,33769.32866,45436.46,23317.61
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1993,0.00721442,0.009511,0.005161
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1993,173.9756545,234.0833,120.1296
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,1993,86912.6973,122170.9,58774.76
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,1993,0.018491088,0.024175,0.013493
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,1993,447.76411,629.4103,302.8007
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,1993,12805.71253,19867.09,7427.35
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1993,0.002726359,0.00409,0.00166
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1993,65.97354188,102.3529,38.26485
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,1993,76335.71299,108515.8,50577.19
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1993,0.01624872,0.022006,0.011351
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1993,393.2727168,559.0609,260.5678
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1993,5246.168431,7945.305,3164.624
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1993,0.001115484,0.001592,0.000718
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1993,27.02764972,40.93329,16.30378
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1993,9962.990759,14438.39,6390.718
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,1993,0.002117622,0.00294,0.001479
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,1993,51.32816986,74.38492,32.92424
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1993,1142.846208,1992.72,616.2371
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,1993,0.000242676,0.000404,0.000141
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,1993,5.88781077,10.26626,3.174782
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,1993,15408.77687,24749.54,8517.04
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,1993,0.003273409,0.005018,0.001921
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,1993,79.38422668,127.5068,43.8788
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,1997,14853.50473,23501.32,8715.95
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1997,0.002876614,0.004326,0.001709
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1997,67.58276014,106.9299,39.65717
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,1997,89519.17495,123149.2,61189.59
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1997,0.017337043,0.02275,0.012677
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1997,407.3081094,560.3233,278.4098
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1997,6270.802508,9433.665,3855.533
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1997,0.001212873,0.00173,0.00081
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1997,28.53186164,42.92274,17.54249
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1997,11241.88831,16224.54,7240.706
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,1997,0.00217374,0.003011,0.001534
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,1997,51.15007234,73.82092,32.94488
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1997,1293.651187,2286.205,721.9404
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,1997,0.000249882,0.000416,0.000146
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,1997,5.886053124,10.40213,3.284795
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,1997,17418.288,28229.16,9533.974
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,1997,0.003366115,0.005114,0.001975
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,1997,79.25240553,128.4414,43.37914
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1997,6464.592065,11495.99,2667.722
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,1997,0.00124829,0.002127,0.000544
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,1997,29.41359518,52.3062,12.13801
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,1997,20370.28694,30901.59,12923.23
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,1997,0.003941624,0.005705,0.002588
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,1997,92.68386428,140.6008,58.8001
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,1991,31034.81913,41961.23,21573.72
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1991,0.006896609,0.009142,0.004913
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1991,170.4729112,230.4912,118.5035
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,1991,81184.56412,114512.7,55286.05
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,1991,0.017967006,0.023768,0.01315
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,1991,445.9432784,629.0132,303.6839
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,1995,13802.21197,22033.05,7935.614
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1995,0.002759219,0.004086,0.00165
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1995,66.73419682,106.5306,38.36898
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,1995,82110.27599,116025.9,53896.21
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1995,0.016411482,0.022213,0.011509
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1995,397.0061706,560.9895,260.5901
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1995,5722.01655,8476.304,3467.739
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1995,0.001142434,0.001616,0.000741
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1995,27.66615812,40.98324,16.76664
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1993,6381.086796,11410.79,2712.427
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,1993,0.001354295,0.002302,0.000601
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,1993,32.87461716,58.78705,13.97411
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,1993,17402.25172,26475.44,10851.12
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,1993,0.003701071,0.005376,0.002442
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,1993,89.65437727,136.3984,55.90369
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1995,10609.18195,15316.92,6907.271
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,1995,0.002117502,0.002923,0.001494
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,1995,51.29578057,74.05787,33.39691
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1995,1210.593281,2118.833,675.8549
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,1995,0.000241383,0.000405,0.000142
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,1995,5.853262542,10.24464,3.267783
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,1995,16319.74925,25980.78,8941.012
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,1995,0.003255251,0.004954,0.001894
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,1995,78.90658116,125.618,43.23012
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1995,6424.003624,11488.56,2681.021
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,1995,0.001280188,0.002175,0.000555
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,1995,31.06029115,55.54761,12.96284
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,1995,18840.5364,28705.37,11835.57
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,1995,0.003762631,0.005501,0.002469
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,1995,91.0946787,138.7915,57.22543
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,1990,11515.67385,17762.47,6660.575
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1990,0.002583748,0.003858,0.001546
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1990,65.22591873,100.6084,37.72616
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,1990,68660.6767,97630.1,44944.67
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1990,0.015401597,0.020649,0.010689
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1990,388.9008822,552.9866,254.571
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1990,4569.846665,6808.665,2805.776
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1990,0.001024137,0.001457,0.000676
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1990,25.88406472,38.56496,15.89219
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1990,9064.9562,13081.9,5917.255
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,1990,0.002030451,0.00277,0.00143
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,1990,51.34481093,74.09715,33.51592
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1990,1044.322539,1830.976,567.4727
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,1990,0.000233619,0.00039,0.000134
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,1990,5.915146433,10.37083,3.214222
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,1990,14195.06335,22986.44,7759.078
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,1990,0.003177967,0.004819,0.001854
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,1990,80.40224662,130.1975,43.94819
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1999,323805.3355,427405.5,239499.1
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1999,0.058193418,0.071188,0.045565
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1999,1394.210842,1840.283,1031.213
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,1999,42850.62027,58161.65,29399.13
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1999,0.007729085,0.01017,0.005557
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1999,184.502208,250.427,126.584
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,1999,100253.8976,141080.4,68503.98
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,1999,0.018007208,0.023583,0.013239
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,1999,431.663891,607.4506,294.9581
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1998,314195.5213,414081.2,228891.6
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1998,0.060429801,0.073709,0.047296
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1998,1389.666072,1831.454,1012.372
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,1998,41297.78906,55494.78,28283.4
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1998,0.007973255,0.010479,0.005576
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1998,182.6573978,245.4497,125.0956
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,1998,98635.21503,138214.2,67228.83
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,1998,0.018959595,0.024853,0.014004
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,1998,436.257052,611.3123,297.3487
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1997,304534.3107,400788.6,221897.1
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1997,0.058976155,0.072212,0.046043
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1997,1385.617042,1823.57,1009.622
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,1997,39745.94104,54215.3,27243.12
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1997,0.00772602,0.010149,0.005486
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1997,180.8421951,246.6771,123.9549
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1996,294557.8659,388850.8,214578.3
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1996,0.058307976,0.071703,0.045527
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1996,1380.848761,1822.881,1005.915
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,1996,38140.93946,51212.44,26135.08
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1996,0.007578257,0.009896,0.005413
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1996,178.7997372,240.0772,122.5178
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1990,6366.864542,11249.57,2760.393
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,1990,0.001424132,0.002384,0.000647
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,1990,36.06255219,63.71868,15.63514
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,1990,15501.8598,23324.32,9770.144
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,1990,0.00347472,0.005007,0.002294
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,1990,87.80407129,132.1113,55.33906
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,1996,14304.46073,22786.17,8271.03
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1996,0.002831976,0.004253,0.001693
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1996,67.05744159,106.8186,38.77351
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,1996,85513.0572,119147.8,57531.23
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1996,0.016928069,0.022641,0.012076
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1996,400.8740312,558.5494,269.6989
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1996,6003.317775,9126.8,3680.534
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1996,0.001186992,0.001689,0.00077
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1996,28.14276879,42.78524,17.25386
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,1996,95545.59258,135358.7,64983.46
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,1996,0.018903789,0.024704,0.013902
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,1996,447.9052453,634.5438,304.634
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,1997,97356.181,137562.6,66273.98
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,1997,0.018843954,0.024753,0.013812
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,1997,442.9661248,625.9033,301.5436
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2002,362182.0684,477277,264420.9
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2002,0.066117192,0.080216,0.05217
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2002,1455.326216,1917.803,1062.501
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2002,47218.92306,63790.73,32309.77
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2002,0.008654537,0.011245,0.006116
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2002,189.7358887,256.325,129.8277
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2004,395277.7604,522650.9,287027.3
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2004,0.069394386,0.08414,0.054914
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2004,1531.416375,2024.896,1112.024
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,1999,15921.72796,25119.69,9188.976
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1999,0.002861664,0.004294,0.001712
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1999,68.55429271,108.158,39.56504
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,1999,97693.30416,133106.5,68355.66
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1999,0.01755844,0.022519,0.013147
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1999,420.6387261,573.1177,294.3194
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1999,6808.536113,10076.34,4213.191
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1999,0.001222193,0.001717,0.000801
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1999,29.31556038,43.38578,18.14077
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1999,11881.77038,17329.18,7732.549
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,1999,0.002132017,0.002928,0.001503
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,1999,51.15941978,74.61435,33.29409
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1999,1390.176761,2513.599,753.0063
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,1999,0.000249227,0.000425,0.000145
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,1999,5.985693564,10.82282,3.242224
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,1999,18521.41929,29906.94,10346.29
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,1999,0.003321668,0.005054,0.001979
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,1999,79.74780139,128.7705,44.5481
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1999,6523.331118,11748.6,2681.189
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,1999,0.001168863,0.001973,0.000496
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,1999,28.08755129,50.58602,11.54441
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,1999,21960.55183,33607.16,13684.49
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,1999,0.003943053,0.005738,0.002607
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,1999,94.55569782,144.7026,58.92139
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2002,118044.6771,165284.4,80893.68
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2002,0.021536487,0.028026,0.015989
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2002,474.3291516,664.1488,325.0484
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,1995,284826.1617,377305.7,206821.2
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,1995,0.056929397,0.070514,0.044508
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,1995,1377.14485,1824.287,999.988
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,36731.59281,49741.41,25241.37
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1995,0.007368283,0.009751,0.005181
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,177.5985871,240.5015,122.0429
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,1995,93055.99989,130108.4,63345.88
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,1995,0.018591024,0.024376,0.013485
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,1995,449.9291437,629.0791,306.2796
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2000,333534.3794,440093,244551.6
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2000,0.061810096,0.075218,0.048448
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2000,1400.202683,1847.544,1026.646
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2000,44282.46657,59782.1,30529.16
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2000,0.008238479,0.010688,0.005835
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2000,185.9011614,250.9698,128.1637
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2004,49956.35633,67216.9,34246.17
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2004,0.008804865,0.011576,0.006185
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2004,193.5448684,260.417,132.6792
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2004,138721.0214,193048.9,95588.25
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2004,0.024339546,0.03167,0.01806
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2004,537.443957,747.9254,370.3356
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2001,346039.7893,458032,255322.6
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2001,0.06403336,0.077759,0.050644
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2001,1419.630578,1879.079,1047.463
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2001,45714.37248,61219.38,31753.85
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2001,0.008492826,0.011154,0.006104
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2001,187.5435225,251.1529,130.2704
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2000,102804.1005,144700,69642.38
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2000,0.019039581,0.025062,0.013905
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2000,431.5794301,607.4615,292.364
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2003,17964.86943,28390.07,10360.57
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2003,0.003189852,0.004765,0.001915
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2003,70.83111062,111.9352,40.84922
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2003,109635.4411,147850.3,76991.44
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2003,0.019467109,0.024629,0.014727
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2003,432.2658781,582.938,303.5585
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2003,7777.002171,11526.25,4766.758
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2003,0.00137901,0.001933,0.00091
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2003,30.66282799,45.44519,18.79417
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2003,12904.78115,18661.13,8425.112
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2003,0.002287721,0.003124,0.001643
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2003,50.88041329,73.57631,33.21817
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2003,1517.667503,2753.179,831.467
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2003,0.000268743,0.000461,0.000156
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2003,5.983793828,10.85511,3.278272
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2003,19853.34675,32200.15,11476.92
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2003,0.003517617,0.005315,0.002123
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2003,78.27691739,126.9574,45.25072
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2003,7295.836932,12650.37,3205.071
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2003,0.001291688,0.002101,0.000601
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2003,28.76571048,49.87734,12.63682
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2003,24890.36891,37924.12,15744.19
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2003,0.004415628,0.006392,0.002938
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2003,98.13667061,149.5256,62.07549
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2001,108650.7483,152916.6,74278.61
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2001,0.020093197,0.026077,0.014681
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2001,445.7404303,627.3414,304.7285
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2003,379562.3339,499267.9,277625
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2003,0.067394811,0.082177,0.053175
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2003,1496.521963,1968.492,1094.608
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2003,48632.08535,65656.64,33393.8
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2003,0.00866949,0.011334,0.006146
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2003,191.7444839,258.8682,131.6636
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,1998,15396.54369,24067.82,8912.341
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,1998,0.002961678,0.004372,0.001786
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,1998,68.09789746,106.4504,39.4187
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,1998,93783.45239,128368.5,65234.13
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,1998,0.018038598,0.023088,0.013425
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,1998,414.7980257,567.7653,288.5262
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,1998,6547.848004,9740.519,4067.665
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,1998,0.001257605,0.001779,0.000837
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,1998,28.96069995,43.08168,17.99101
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1998,11557.80951,16698.62,7498.018
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,1998,0.002219541,0.003025,0.00157
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,1998,51.11942931,73.85691,33.16324
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1998,1346.521123,2338.038,739.498
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,1998,0.00025832,0.000429,0.000152
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,1998,5.955574137,10.34099,3.270751
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,1998,17988.88884,28716.86,10195.21
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,1998,0.003452477,0.005243,0.002058
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,1998,79.56366912,127.0128,45.09275
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1998,6491.690011,11671.66,2634.17
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,1998,0.001244763,0.002112,0.000526
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,1998,28.71231685,51.62299,11.65076
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,1998,21149.76361,32334.67,13144.47
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,1998,0.004063969,0.005835,0.002681
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,1998,93.5440098,143.0141,58.13712
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2001,16986.78483,26269.93,9729.886
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2001,0.003143321,0.004683,0.001907
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2001,69.68839972,107.7726,39.91692
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2001,104074.5241,141622.8,73108.69
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2001,0.019259575,0.024477,0.014693
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2001,426.9664394,581.0087,299.9289
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2001,7315.78452,11023.98,4552.358
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2001,0.001351745,0.001917,0.00089
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2001,30.0130555,45.22594,18.67608
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2001,12440.09324,17931.52,8088.801
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2001,0.002298173,0.003131,0.001635
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2001,51.03556669,73.56417,33.18436
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2001,1462.917818,2669.042,810.0162
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2001,0.000270004,0.000459,0.000157
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2001,6.001630247,10.94976,3.323097
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2001,19261.86221,31005.62,10789.62
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2001,0.003556314,0.005434,0.002129
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2001,79.02192005,127.2008,44.2645
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2001,6704.10676,11912.94,2802.706
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2001,0.001236677,0.002091,0.000549
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2001,27.50364335,48.87291,11.49812
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2001,23428.59504,35421.65,14775.37
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2001,0.004331529,0.006239,0.00288
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2001,96.11596972,145.3176,60.61607
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,1996,10940.71401,16077.9,7008.183
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,1996,0.002162423,0.002975,0.001521
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,1996,51.28863675,75.37111,32.85344
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,1996,1248.717844,2204.071,672.4895
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,1996,0.000246543,0.000412,0.000144
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,1996,5.85382598,10.3324,3.152543
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,1996,16822.1109,26921.69,9324.14
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,1996,0.003322785,0.005112,0.001961
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,1996,78.8598564,126.2054,43.71035
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,1996,6447.94669,11410.32,2711.88
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,1996,0.001272508,0.002146,0.000576
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,1996,30.22713101,53.4901,12.71294
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,1996,19591.00869,29996.62,12516.93
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,1996,0.003874634,0.005621,0.002564
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,1996,91.84008721,140.6202,58.67771
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2003,129090.9346,179786.3,88783.54
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2003,0.022907952,0.02979,0.01691
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2003,508.9741567,708.8536,350.0519
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2002,17500.15471,27348.42,10051.19
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2002,0.003194867,0.004691,0.001917
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2002,70.31942263,109.8919,40.38786
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2002,106919.8547,144381.9,75730.55
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2002,0.01951886,0.024666,0.014835
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2002,429.6271989,580.1578,304.3018
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2002,7563.917565,11298.38,4556.787
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2002,0.001378921,0.001952,0.000887
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2002,30.39346364,45.39936,18.31016
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2002,12689.55766,18436.66,8291.654
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2002,0.002312732,0.003163,0.001652
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2002,50.9893988,74.0825,33.31766
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2002,1490.585135,2650.04,809.1511
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2002,0.0002714,0.000468,0.000159
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2002,5.989494823,10.64844,3.251345
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2002,19593.09247,31672.57,11055.58
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2002,0.003568935,0.005479,0.002132
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2002,78.72930111,127.2672,44.42372
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2002,6966.572302,12242.44,2923.999
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2002,0.001267781,0.002118,0.000577
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2002,27.99320063,49.19277,11.74926
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2002,24194.73374,36653.71,15213.79
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2002,0.004412673,0.006333,0.002949
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2002,97.2196952,147.2826,61.1323
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2007,19760.66792,30899.04,11433.97
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2007,0.00333631,0.004943,0.002051
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2007,73.10955375,114.3188,42.30284
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2007,119610.8365,162979.4,85107.66
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2007,0.020193152,0.025515,0.015496
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2007,442.5303292,602.9833,314.8772
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2007,8659.411475,12969.67,5264.451
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2007,0.001459753,0.002088,0.000965
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2007,32.03766751,47.98457,19.47716
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2007,13736.38981,19967.98,8837.117
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2007,0.002314916,0.003163,0.001658
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2007,50.82122394,73.87657,32.69513
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2007,1589.684529,2824.771,882.6851
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2007,0.000267689,0.000444,0.000159
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2007,5.881437155,10.45095,3.265715
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2007,20507.63979,32774.39,11481.76
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2007,0.003453775,0.005167,0.002056
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2007,75.87316379,121.2571,42.47966
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2007,423085.5789,555368.1,309805.8
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2007,0.071421746,0.086471,0.056448
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2007,1565.311355,2054.724,1146.204
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2000,16483.68358,25902.12,9502.806
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2000,0.003055101,0.004584,0.001843
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2000,69.19975689,108.7391,39.8935
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2000,101098.2245,136871.7,71269.04
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2000,0.018736271,0.023702,0.014215
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2000,424.418033,574.5977,299.1929
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2000,7071.071253,10385.25,4330.548
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2000,0.001308873,0.001842,0.000869
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2000,29.68489472,43.59809,18.17997
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2000,12154.00012,17585,7898.386
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2000,0.002248796,0.003075,0.001599
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2000,51.02341656,73.82315,33.15802
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2000,1430.151761,2559.233,774.4427
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2000,0.00026434,0.000446,0.000152
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2000,6.003885827,10.74385,3.251169
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2000,18930.39796,30259.47,10495.27
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2000,0.003500145,0.005268,0.00207
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2000,79.47124988,127.0315,44.05993
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2000,6561.968849,11758.66,2613.019
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2000,0.001212328,0.002031,0.000529
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2000,27.54764413,49.36376,10.96965
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2000,22718.3142,34735.35,14282.12
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2000,0.004206183,0.00609,0.002821
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2000,95.37321024,145.8216,59.95744
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2004,18439.75375,28892.62,10799.59
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2004,0.00323765,0.004834,0.001968
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2004,71.44075298,111.9381,41.84062
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2004,112224.1642,152749.4,79037.32
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2004,0.019703643,0.024961,0.015013
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2004,434.7877364,591.7938,306.2126
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2004,8013.745078,12101.01,4873.546
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2004,0.00140483,0.001997,0.000928
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2004,31.04748525,46.88268,18.88148
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2004,13118.28419,19005.02,8536.303
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2004,0.002299294,0.003154,0.00162
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2004,50.82389454,73.63075,33.07202
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2004,1535.755772,2739.573,831.659
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2004,0.000268915,0.00045,0.000156
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2004,5.949946524,10.61387,3.222079
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2004,20145.64727,32214.58,11261.13
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2004,0.003528385,0.005298,0.002085
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2004,78.04986063,124.8083,43.62876
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2004,7552.830342,12973.68,3454.711
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2004,0.001322142,0.002162,0.000628
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2004,29.26177291,50.26367,13.38452
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2004,25570.20204,38836.36,16061.04
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2004,0.004485116,0.006457,0.002998
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2004,99.06609991,150.4629,62.22494
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2007,53627.89391,71877.21,37116.16
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2007,0.009089405,0.011761,0.006497
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2007,198.4098619,265.9278,137.3206
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2007,150513.5258,208687.4,103073.9
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2007,0.025392988,0.033014,0.0187
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2007,556.8625892,772.0916,381.3479
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2006,19360.50086,30149.63,11255.29
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2006,0.003327589,0.004896,0.002023
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2006,72.67708688,113.1782,42.25107
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2006,117141.6286,158774.8,83346.72
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2006,0.020131017,0.025568,0.015464
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2006,439.7361607,596.0224,312.874
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2006,8430.017779,12573.66,5171.483
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2006,0.00144649,0.002075,0.000979
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2006,31.64531429,47.20006,19.41315
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2006,13531.113,19569.37,8840.819
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2006,0.002321376,0.003142,0.001652
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2006,50.7942373,73.46117,33.18741
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2006,1576.146767,2762.432,870.079
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2006,0.000270178,0.000452,0.000158
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2006,5.916673145,10.36985,3.266176
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2006,20434.77693,32486.96,11668.78
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2006,0.00350338,0.005291,0.002114
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2006,76.70979533,121.9523,43.80325
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2007,7547.874568,12959.64,3436.225
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2007,0.001270384,0.002101,0.0006
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2007,27.92525757,47.94743,12.71318
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2007,27531.6546,41770.04,17386.7
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2007,0.004643373,0.006743,0.00309
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2007,101.8602706,154.5387,64.32647
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2006,7624.168091,13098.31,3441.695
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2006,0.001306258,0.002135,0.000626
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2006,28.62024752,49.16953,12.91973
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2006,26864.85417,40576.19,16951.86
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2006,0.004612264,0.006691,0.003093
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2006,100.8475635,152.3183,63.63534
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2006,415125.9524,546794.5,302862.9
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2006,0.071335611,0.086255,0.056437
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2006,1558.334938,2052.603,1136.912
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2008,430530.9131,566780.2,314289.3
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2008,0.070267559,0.085251,0.055381
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2008,1570.600825,2067.646,1146.545
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2008,54711.75122,73374.49,37572.55
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2008,0.00896488,0.011689,0.006283
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2008,199.5915252,267.6743,137.0667
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2008,153105.3722,213275,104102.8
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2008,0.024973267,0.032573,0.018521
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2008,558.5369518,778.0391,379.7729
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2005,406815.8216,537565.5,297443.2
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2005,0.070698291,0.085744,0.055944
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2005,1550.614403,2048.978,1133.731
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2006,52364.66938,70898.82,36359.21
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2006,0.009034604,0.011858,0.006349
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2006,196.5709283,266.146,136.4883
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2006,147798.0769,204148.6,101624.5
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2006,0.025382453,0.033115,0.01881
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2006,554.8169312,766.3501,381.4867
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2011,21439.80872,33123.34,12397
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2011,0.003295728,0.004847,0.002009
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2011,75.21610483,116.2048,43.4917
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2011,128638.37,173783.9,90397.58
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2011,0.01977344,0.02506,0.015119
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2011,451.2949369,609.6765,317.1369
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2011,9573.247061,14341.47,5861.074
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2011,0.001469376,0.00208,0.000971
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2011,33.58529752,50.31339,20.56208
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2005,18909.9432,29794.34,10880.57
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2005,0.003286935,0.004898,0.001982
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2005,72.07691717,113.5637,41.47226
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2005,114676.9476,155913.9,81010
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2005,0.019930197,0.025338,0.015202
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2005,437.1013051,594.2796,308.7768
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2005,8236.271538,12569.14,5028.189
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2005,0.001429078,0.002044,0.000949
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2005,31.39327576,47.9084,19.16539
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2005,13314.89252,19439.72,8777.112
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2005,0.002310253,0.003203,0.001657
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2005,50.75088778,74.0962,33.45474
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2005,1557.861046,2762.016,837.0375
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2005,0.00027003,0.000454,0.000155
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2005,5.937924848,10.52767,3.190442
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2005,20296.20265,32460.88,11395.83
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2005,0.00351871,0.005292,0.002089
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2005,77.3607674,123.7275,43.43621
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2011,14389.71305,20865.66,9348.142
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2011,0.002207795,0.003014,0.001561
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2011,50.48264093,73.20183,32.79557
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2011,1626.991213,2887.012,902.3393
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2011,0.000249399,0.000428,0.000145
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2011,5.707884022,10.12835,3.165627
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2011,20426.07775,32790.79,11505.55
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2011,0.003131882,0.004757,0.001886
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2011,71.6596881,115.0381,40.3643
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2011,6982.488809,12144.05,3014.902
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2011,0.001070145,0.001779,0.000485
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2011,24.49628246,42.60429,10.57701
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2011,30132.30628,45640.21,19146.28
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2011,0.004627721,0.00675,0.003075
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2011,105.7115172,160.117,67.16983
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2005,7670.020763,13074.85,3512.495
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2005,0.001329138,0.002157,0.000645
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2005,29.23496096,49.83596,13.38818
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2005,26217.6696,39681.77,16632.79
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2005,0.004552399,0.006506,0.003037
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2005,99.93096119,151.2506,63.39737
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2009,20604.14061,31851.63,11937.63
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2009,0.00325172,0.004838,0.00199
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2009,74.16110917,114.6445,42.96748
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2009,124361.2033,168992,88110.56
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2009,0.019623991,0.025083,0.014985
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2009,447.6170568,608.258,317.139
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2009,9114.951552,13658.86,5533.715
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2009,0.00143633,0.002023,0.00095
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2009,32.807722,49.16274,19.91767
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2013,22217.29902,34596.67,12952.76
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2013,0.003342668,0.004953,0.00203
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2013,76.03143814,118.3958,44.32657
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2013,131774.0621,182813.6,89874.4
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2013,0.019825222,0.02587,0.01472
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2013,450.9536213,625.6199,307.5657
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2013,10043.83576,15119.53,6084.788
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2013,0.001508772,0.002176,0.000998
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2013,34.37174232,51.74163,20.8232
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2013,14698.22303,21340.37,9490.467
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2013,0.002207479,0.003013,0.001568
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2013,50.29986022,73.03045,32.47802
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2013,1636.530078,2926.84,883.6744
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2013,0.000245564,0.000407,0.000142
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2013,5.600488849,10.01615,3.024087
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2013,20241.50939,32323.78,11432.89
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2013,0.003038292,0.004569,0.001808
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2013,69.26994444,110.6176,39.12531
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2013,6255.60427,11156.74,2414.783
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2013,0.000938289,0.001593,0.000374
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2013,21.40775927,38.18028,8.263804
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2013,31489.94703,47332.63,19756.51
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2013,0.004732701,0.006826,0.003152
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2013,107.7640427,161.9804,67.61019
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2016,501561.673,664102.7,368574.8
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2016,0.06914817,0.085525,0.053744
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2016,1658.620344,2196.129,1218.845
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2016,65209.06022,87823.84,45300.24
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2016,0.009025025,0.011895,0.00639
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2016,215.6406275,290.4257,149.8039
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2014,485341.3097,643518.3,355265.3
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2014,0.070055559,0.085449,0.055348
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2014,1641.254923,2176.154,1201.383
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2014,62739.07141,84347.99,43659.43
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2014,0.009092296,0.011811,0.006462
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2014,212.1616433,285.2355,147.641
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2016,189022.6855,264148.4,130208.6
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2016,0.026047089,0.034276,0.019089
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2016,625.0813978,873.5155,430.5884
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2012,464256.627,613326.6,341281.5
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2012,0.069856949,0.084865,0.055487
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2012,1608.159209,2124.529,1182.18
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2012,59738.39978,80137.71,40998.97
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2012,0.009024436,0.011722,0.006406
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2012,206.9305038,277.5926,142.0181
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2016,23319.59106,35682.5,13441.39
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2016,0.003214349,0.004755,0.001952
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2016,77.11583686,117.9989,44.44949
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2016,137484.4272,194870.6,90744.56
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2016,0.018951973,0.025669,0.013417
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2016,454.6489098,644.4199,300.0843
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2016,10804.37546,16099.94,6621.476
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2016,0.001487438,0.002122,0.000973
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2016,35.72911946,53.24108,21.89664
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2016,15124.45286,21905.81,9746.982
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2016,0.002081844,0.002845,0.001469
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2016,50.01523553,72.44057,32.23241
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2016,1642.348637,2864.302,910.8207
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2016,0.000226029,0.000384,0.000128
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2016,5.431102508,9.471995,3.012004
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2016,19770.51805,31554.94,11063.38
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2016,0.002718704,0.004157,0.00161
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2016,65.3793645,104.3494,36.58562
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2016,5617.3412,10311.51,2006.903
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2016,0.000772088,0.001378,0.000276
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2016,18.57605334,34.09925,6.636652
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2016,33566.87287,50587.97,21192.25
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2016,0.004623631,0.006772,0.003025
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2016,111.0026966,167.29,70.08089
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2014,181621.0886,252926.6,125636.7
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2014,0.026199728,0.034025,0.019401
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2014,614.1791349,855.3096,424.8594
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2012,168636.0273,235896.4,115818.6
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2012,0.025358907,0.033057,0.018755
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2012,584.1458462,817.1321,401.1893
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2009,14064.62568,20282.74,9023.763
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2009,0.002215691,0.003022,0.001573
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2009,50.62323445,73.00428,32.4795
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2009,1612.427954,2900.847,877.0191
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2009,0.000253779,0.000424,0.000149
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2009,5.803660915,10.44111,3.156682
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2009,20466.8665,32846.13,11413.81
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2009,0.003222079,0.004891,0.001916
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2009,73.66701432,118.2241,41.08208
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2009,7320.188199,12686.8,3335.738
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2009,0.001151679,0.00191,0.000543
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2009,26.34777575,45.66398,12.00642
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2009,28838.07275,43670.98,18207.75
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2009,0.004546178,0.00652,0.00305
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2009,103.7977512,157.1863,65.53572
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2017,23700.27159,36857.24,13763.4
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2017,0.003201627,0.00485,0.001946
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2017,77.5003015,120.5238,45.00655
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2017,139692.0032,198199.1,92303.25
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2017,0.018876511,0.025882,0.013173
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2017,456.7952871,648.1145,301.8332
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2017,11070.87384,16417.53,6833.077
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2017,0.001493858,0.002138,0.000969
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2017,36.20195057,53.6856,22.34428
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2017,15262.52236,22233.73,9875.351
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2017,0.002059197,0.002825,0.001433
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2017,49.90871434,72.7047,32.29257
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2017,1644.316907,2926.938,896.1346
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2017,0.000221881,0.000383,0.000128
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2017,5.376944969,9.571139,2.930376
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2017,19662.16953,31514.55,10972.77
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2017,0.002649873,0.004103,0.001555
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2017,64.29563734,103.0531,35.88114
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2017,5512.732523,10299.86,1866.025
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2017,0.000742614,0.001339,0.000271
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2017,18.02673151,33.68073,6.101934
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2017,34280.69115,51727.75,21483.93
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2017,0.00462937,0.006763,0.002982
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2017,112.098458,169.1507,70.25284
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2019,524575.0758,695976.6,382606.4
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2019,0.067793145,0.085852,0.05152
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2019,1675.883627,2223.468,1222.33
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2019,69402.62896,93936.12,49044.42
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2019,0.00900226,0.012097,0.0062
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2019,221.7237053,300.1019,156.6844
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2019,198752.3499,276770.8,135307.9
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2019,0.025674606,0.034673,0.018377
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2019,634.9630858,884.2123,432.2744
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2019,24410.55847,38349.82,14279.35
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2019,0.003153591,0.004746,0.001882
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2019,77.98551085,122.5179,45.61888
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2019,142940.3355,203772.7,95221.14
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2019,0.018469433,0.025589,0.012911
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2019,456.6579294,651.0018,304.2073
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2019,11507.73747,17005.68,7166.437
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2019,0.001485342,0.002101,0.000965
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2019,36.76428732,54.32883,22.89494
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2019,15573.90157,22892.26,10150.5
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2019,0.002009031,0.002765,0.001402
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2019,49.75464496,73.13494,32.42827
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2019,1650.362473,2948.712,922.1258
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2019,0.000212991,0.000363,0.00012
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2019,5.27248734,9.420383,2.945957
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2019,19456.04266,31295.17,10971.43
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2019,0.002508474,0.003885,0.00146
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2019,62.15709597,99.9801,35.05092
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2019,5337.201503,9777.477,1801.068
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2019,0.00068758,0.001246,0.000256
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2019,17.05099808,31.23655,5.753953
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2019,35543.95731,53837.54,22394.35
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2019,0.004589838,0.006793,0.002983
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2019,113.5538817,171.9972,71.54425
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2010,445233.5079,585251.6,325834.3
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2010,0.069841231,0.084959,0.055432
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2010,1582.174626,2079.74,1157.88
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2010,56975.65807,76813.57,39519.2
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2010,0.008972071,0.011674,0.006347
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2010,202.4677813,272.9635,140.4348
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2010,158277.4274,220907.6,107633.2
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2010,0.02481305,0.03242,0.018587
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2010,562.4521178,785.0138,382.4838
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2014,22593.51466,35525,13137.49
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2014,0.003261566,0.004828,0.001961
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2014,76.40338134,120.1331,44.42639
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2014,133345.9115,186203.2,89616.27
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2014,0.01924673,0.025486,0.013922
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2014,450.9293345,629.6741,303.0509
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2014,10283.12737,15399.9,6362.317
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2014,0.001481997,0.002093,0.000973
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2014,34.77394792,52.07709,21.51514
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2014,14831.75657,21478.25,9636.553
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2014,0.00213748,0.002909,0.001523
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2014,50.15582436,72.63194,32.58746
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2014,1638.448616,2917.248,908.3616
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2014,0.00023592,0.000394,0.000138
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2014,5.540661394,9.865116,3.071762
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2014,20145.64068,32232.03,11291.09
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2014,0.002900992,0.004352,0.001712
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2014,68.12552585,108.9975,38.18252
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2014,5921.965252,10721.12,2129.503
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2014,0.000852261,0.001484,0.000327
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2014,20.02601969,36.2551,7.201235
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2014,32220.78508,48657.65,20359.3
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2014,0.004646591,0.006605,0.003092
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2014,108.9594499,164.5432,68.84803
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2013,474837.9441,625000.1,348851.9
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2013,0.071439284,0.086948,0.056703
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2013,1624.977534,2138.858,1193.832
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2013,61164.87,82118.42,42075.94
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2013,0.009239949,0.012055,0.006582
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2013,209.3167592,281.0234,143.9911
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2010,21048.57368,33211.45,12236.71
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2010,0.003301985,0.004901,0.002011
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2010,74.79787255,118.0197,43.48417
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2010,126585.8951,171742.5,89231.21
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2010,0.019858166,0.025315,0.015171
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2010,449.833599,610.3012,317.0906
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2010,9342.723801,13998.54,5665.11
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2010,0.001463469,0.002065,0.000957
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2010,33.20015289,49.745,20.13144
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2018,516288.9974,683486.3,376192.1
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2018,0.068725685,0.086927,0.05168
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2018,1668.678915,2209.071,1215.877
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2018,67703.61696,91403.69,47501.62
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2018,0.009047368,0.011963,0.006376
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2018,218.8224012,295.4225,153.5283
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2018,194824.9373,271111.2,133785.6
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2018,0.025923277,0.034492,0.018444
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2018,629.6866032,876.2487,432.4035
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2013,175316.0635,244273,120369.7
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2013,0.026360347,0.034217,0.019715
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2013,599.9618775,835.9446,411.926
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2015,22977.39397,35562.14,13122.38
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2015,0.003228392,0.004749,0.001943
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2015,76.81792399,118.8912,43.87069
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2015,135210.8523,191410.1,89189.21
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2015,0.01899642,0.025678,0.013385
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2015,452.0363358,639.9214,298.177
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2015,10530.0341,15702.42,6473.158
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2015,0.001477432,0.002107,0.000975
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2015,35.20396438,52.49627,21.64103
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2015,14975.3117,21763.23,9680.217
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2015,0.002100774,0.002887,0.001475
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2015,50.06539723,72.75874,32.36286
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2015,1642.220967,2930.88,921.9855
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2015,0.000230204,0.000385,0.000135
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2015,5.490266025,9.798506,3.082378
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2015,19954.9565,32178.68,11069.49
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2015,0.002797104,0.004228,0.001663
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2015,66.71332413,107.5796,37.00749
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2015,5707.155036,10354.36,2080.326
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2015,0.000799393,0.001416,0.000289
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2015,19.080136,34.61664,6.954937
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2015,32897.89479,49918.79,20691.71
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2015,0.004618457,0.006701,0.003026
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2015,109.9840994,166.8883,69.17644
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2010,14223.05807,20482.17,9176.914
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2010,0.002227341,0.003017,0.001594
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2010,50.54283017,72.78512,32.61093
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2010,1620.288031,2913.502,897.4639
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2010,0.000253531,0.000428,0.000148
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2010,5.757829462,10.35337,3.189213
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2010,20481.50229,33045.93,11479.03
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2010,0.003205158,0.004883,0.001885
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2010,72.78273682,117.4315,40.7917
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2010,7196.09895,12602.59,3219.726
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2010,0.001125503,0.001858,0.000525
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2010,25.57194138,44.78435,11.44157
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2010,29482.28253,44441.6,18670.88
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2010,0.004620957,0.006678,0.003079
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2010,104.7677645,157.927,66.34853
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2017,508796.6888,672027.5,372927.8
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2017,0.068759488,0.085933,0.051987
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2017,1663.774047,2197.542,1219.48
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2017,66404.92026,88932.12,46223.4
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2017,0.009008503,0.011893,0.006318
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2017,217.1452475,290.8096,151.1513
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2009,437692.5318,575311.8,320803.6
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2009,0.069063041,0.083887,0.054711
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2009,1575.400025,2070.737,1154.678
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2009,55745.71839,74153.54,38631.02
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2009,0.008830248,0.011391,0.006285
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2009,200.6472576,266.9031,139.0458
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2009,155564.3369,216334.6,105654.9
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2009,0.024531346,0.031916,0.017989
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2009,559.9274431,778.6597,380.2868
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2012,21808.52803,33604.85,12774.72
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2012,0.003281878,0.004909,0.001987
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2012,75.54353162,116.4053,44.25093
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2012,130216.1682,178503.4,90333.84
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2012,0.019594238,0.025203,0.01471
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2012,451.0615851,618.326,312.9114
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2012,9826.507637,14757,5975.355
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2012,0.001476696,0.002088,0.000976
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2012,34.03847749,51.11742,20.6983
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2015,494126.9018,654552.8,361322.2
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2015,0.069429344,0.085253,0.054684
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2015,1651.962918,2188.298,1207.971
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2015,64081.28814,86332.04,44246.06
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2015,0.00903958,0.011761,0.006426
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2015,214.236285,288.6249,147.9232
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2005,51216.24626,69153.54,34639.88
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2005,0.008936549,0.011669,0.006183
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2005,195.2152421,263.5848,132.0329
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2005,144719.7664,200864.9,99828.92
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2005,0.025135003,0.032622,0.018613
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2005,551.6121602,765.6144,380.5068
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2017,191566.1875,265017.4,132163.7
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2017,0.025876053,0.034216,0.018738
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2017,626.4247745,866.6114,432.1776
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2015,186149.7943,259145.5,128155.8
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2015,0.026141586,0.034066,0.019428
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2015,622.335186,866.374,428.45
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,1,Number,2011,454080.8729,599832.4,333895.7
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,2,Percent,2011,0.069794674,0.084763,0.055775
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,558,Mental disorders,3,Rate,2011,1593.027018,2104.359,1171.388
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,1,Number,2011,58268.86757,77739.39,40253.15
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,2,Percent,2011,0.008991648,0.011699,0.006376
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2011,204.4214717,272.7288,141.2179
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,1,Number,2011,162603.0025,227636,111280.5
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,2,Percent,2011,0.02497754,0.032472,0.018508
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,567,Depressive disorders,3,Rate,2011,570.4511939,798.6028,390.3992
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2008,20219.35668,31755.82,11605.84
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2008,0.003300356,0.004859,0.001991
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2008,73.76134284,115.847,42.33876
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2008,122028.8808,165588.1,85605.47
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2008,0.019918114,0.025175,0.015215
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2008,445.1681751,604.0746,312.2935
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2008,8886.116653,13249.2,5476.632
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2008,0.001448202,0.00205,0.000959
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2008,32.41705002,48.33383,19.97906
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2008,13879.0132,19938.76,9081.624
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2008,0.00226158,0.003074,0.001602
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2008,50.63141558,72.73772,33.13027
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2008,1602.097455,2872.116,879.6474
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2008,0.000260819,0.000431,0.000149
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2008,5.844541026,10.47764,3.209003
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2008,20429.57308,32659.41,11558.05
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2008,0.003326593,0.005017,0.001982
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2008,74.52822402,119.1434,42.16442
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,1,Number,2018,24049.28439,37211.1,14287.4
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,2,Percent,2018,0.003199716,0.004782,0.001937
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,570,Bipolar disorder,3,Rate,2018,77.72881853,120.2687,46.17778
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,1,Number,2018,141421.7407,198956,93419.31
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,2,Percent,2018,0.018821587,0.025864,0.013202
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,571,Anxiety disorders,3,Rate,2018,457.0840713,643.0383,301.9372
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,1,Number,2018,11265.67168,16780.8,7041.104
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,2,Percent,2018,0.001497359,0.002131,0.000986
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,572,Eating disorders,3,Rate,2018,36.41136822,54.23661,22.7573
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2018,15426.31981,22319.94,9984.416
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2018,0.002049998,0.002803,0.001421
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2018,49.85884792,72.13945,32.27027
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2018,1648.867277,2912.418,917.1407
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2018,0.000219169,0.000363,0.000122
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2018,5.329244034,9.413121,2.964257
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2018,19549.64732,31094.91,10916.53
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2018,0.002595732,0.003991,0.001503
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2018,63.185705,100.5007,35.28293
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2018,5428.96673,10164.75,1829.351
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2018,0.000720398,0.001291,0.00026
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2018,17.54676617,32.85311,5.912578
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2018,34969.94527,52515.59,22149.1
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2018,0.004651082,0.006783,0.003008
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2018,113.0250899,169.7337,71.58729
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2008,7439.594462,12929.33,3385.982
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2008,0.001210614,0.001997,0.000577
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2008,27.14005625,47.16691,12.35225
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2008,28229.15728,42404.12,17831.97
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2008,0.004603134,0.006651,0.003089
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2008,102.9815429,154.6926,65.05203
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,1,Number,2012,14556.49834,21099.71,9366.812
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,2,Percent,2012,0.002186631,0.002995,0.001543
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,575,Autism spectrum disorders,3,Rate,2012,50.42290296,73.08823,32.44612
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,1,Number,2012,1629.817118,2900.006,886.3354
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,2,Percent,2012,0.000244602,0.000409,0.000143
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,578,Attention-deficit/hyperactivity disorder,3,Rate,2012,5.645596109,10.04546,3.070217
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,1,Number,2012,20364.8025,32306.38,11371.23
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,2,Percent,2012,0.003057409,0.004612,0.001812
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,579,Conduct disorder,3,Rate,2012,70.54254647,111.9075,39.38932
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,1,Number,2012,6639.731663,11725.49,2799.146
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,2,Percent,2012,0.000996088,0.001661,0.000437
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,582,Idiopathic developmental intellectual disability,3,Rate,2012,22.99966225,40.61646,9.696087
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,1,Number,2012,30840.14637,46567.01,19525.03
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,2,Percent,2012,0.004636065,0.006725,0.003109
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,3,Both,22,All ages,585,Other mental disorders,3,Rate,2012,106.8285567,161.3055,67.63362
